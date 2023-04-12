@@ -17,13 +17,12 @@ public class IdoTeszt {
     private static final int MATRIX_TOMB_HOSSZ=2;
     
     private static final char CSILLAG='*';
-    
-    
-    public static void main(String[] args) {      
+
+    public IdoTeszt() {
         tombokIdore();
     }
     
-    private static int[][] rndTombokGeneral(int hossz){
+    private int[][] rndTombokGeneral(int hossz){
         int[][] tombok = new int[MATRIX_TOMB_HOSSZ][];
         for (int i = 0; i < MATRIX_TOMB_HOSSZ; i++) {
             tombok[i] = rndTombGeneral(hossz);
@@ -31,7 +30,7 @@ public class IdoTeszt {
         return tombok;
     }
     
-    private static void tombokIdore(){
+    private void tombokIdore(){
         int[][] kisTombok=rndTombokGeneral(KIS_TOMB_HOSSZ);
         int[][] kozepesTombok=rndTombokGeneral(KOZEPES_TOMB_HOSSZ);
         int[][] nagyTombok=rndTombokGeneral(NAGY_TOMB_HOSSZ);
@@ -44,24 +43,15 @@ public class IdoTeszt {
         fajlbaIr(strTxtbe);
     }
 
-    private static String strIdovelBuilder(int[][] tombok, int tombHossz) {
+    private String strIdovelBuilder(int[][] tombok, int tombHossz) {
         String str = "";
         for (int i = 0; i < MATRIX_TOMB_HOSSZ; i++) {
-            for (int j = 0; j < tombHossz; j++) {
-                System.out.print(tombok[i][j]+" ");
-            }
-            System.out.println("");
             str+=strEgyTombIdovel(tombok, i);
-        }
-        for (int i = 0; i < MATRIX_TOMB_HOSSZ; i++) {
-            for (int j = 0; j < tombHossz; j++) {
-                System.out.print(tombok[i][j]+" ");
-            }
         }
         return str;
     }
     
-    private static void fajlbaIr(String szoveg){
+    private void fajlbaIr(String szoveg){
         Path p=Paths.get("statisztika.txt");
         
         if (Files.exists(p)) {
@@ -78,7 +68,7 @@ public class IdoTeszt {
         }
     }
     
-    private static int[] rndTombGeneral(int hossz){
+    private int[] rndTombGeneral(int hossz){
         int[] tomb = new int[hossz];
         for (int i = 0; i < hossz; i++) {
             tomb[i]=(int) (Math.random() * 100);
@@ -86,7 +76,7 @@ public class IdoTeszt {
         return tomb;
     }
     
-    private static String strEgyTombIdovel(int[][] tombok, int index){
+    private String strEgyTombIdovel(int[][] tombok, int index){
         int[] tomb = tombok[index];
         
         String idoTesztStr="";
@@ -104,7 +94,7 @@ public class IdoTeszt {
         
         kever(tomb);
         
-        idoTesztStr+=vonal('*');
+        idoTesztStr+=vonal(CSILLAG);
         kezdesiIdo=System.nanoTime();
         RendezesKollekcio.beszuroRendezes(tomb);
         futasiIdo=System.nanoTime()-kezdesiIdo;
@@ -184,7 +174,7 @@ public class IdoTeszt {
         return idoTesztStr;
     }
     
-    private static void kever(int[] tomb){
+    private void kever(int[] tomb){
         Random rnd = new Random();
         
         for (int i = 0; i < tomb.length; i++) {
@@ -195,7 +185,7 @@ public class IdoTeszt {
 	}
     }
     
-    private static String vonal(char jel){
+    private String vonal(char jel){
         String s = "";
         for (int i = 0; i < 30; i++) {
             s+=jel;
