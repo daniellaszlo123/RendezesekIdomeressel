@@ -1,0 +1,294 @@
+******************************
+Továbbfejlesztett beszúró rendezés
+1. teszt sor/2
+3db hosszú tömbbel
+Futási idő: 548100ns
+******************************
+
+******************************
+Beszúró rendezés
+1. teszt sor/2
+3db hosszú tömbbel
+Futási idő: 1500ns
+******************************
+
+******************************
+Buborék rendezés
+1. teszt sor/2
+3db hosszú tömbbel
+Futási idő: 800ns
+******************************
+
+******************************
+Egyszerű cserés rendezés
+1. teszt sor/2
+3db hosszú tömbbel
+Futási idő: 1500ns
+******************************
+
+******************************
+Maximumkiválasztásos rendezés
+1. teszt sor/2
+3db hosszú tömbbel
+Futási idő: 1500ns
+******************************
+
+******************************
+Minimumkiválasztásos rendezés
+1. teszt sor/2
+3db hosszú tömbbel
+Futási idő: 11100ns
+******************************
+
+******************************
+Továbbfejlesztett buborék rendezés
+1. teszt sor/2
+3db hosszú tömbbel
+Futási idő: 1600ns
+******************************
+
+******************************
+Továbbfejlesztett beszúró rendezés
+2. teszt sor/2
+3db hosszú tömbbel
+Futási idő: 700ns
+******************************
+
+******************************
+Beszúró rendezés
+2. teszt sor/2
+3db hosszú tömbbel
+Futási idő: 700ns
+******************************
+
+******************************
+Buborék rendezés
+2. teszt sor/2
+3db hosszú tömbbel
+Futási idő: 100ns
+******************************
+
+******************************
+Egyszerű cserés rendezés
+2. teszt sor/2
+3db hosszú tömbbel
+Futási idő: 600ns
+******************************
+
+******************************
+Maximumkiválasztásos rendezés
+2. teszt sor/2
+3db hosszú tömbbel
+Futási idő: 200ns
+******************************
+
+******************************
+Minimumkiválasztásos rendezés
+2. teszt sor/2
+3db hosszú tömbbel
+Futási idő: 700ns
+******************************
+
+******************************
+Továbbfejlesztett buborék rendezés
+2. teszt sor/2
+3db hosszú tömbbel
+Futási idő: 600ns
+******************************
+
+******************************
+Továbbfejlesztett beszúró rendezés
+1. teszt sor/2
+30db hosszú tömbbel
+Futási idő: 4800ns
+******************************
+
+******************************
+Beszúró rendezés
+1. teszt sor/2
+30db hosszú tömbbel
+Futási idő: 2200ns
+******************************
+
+******************************
+Buborék rendezés
+1. teszt sor/2
+30db hosszú tömbbel
+Futási idő: 200ns
+******************************
+
+******************************
+Egyszerű cserés rendezés
+1. teszt sor/2
+30db hosszú tömbbel
+Futási idő: 9100ns
+******************************
+
+******************************
+Maximumkiválasztásos rendezés
+1. teszt sor/2
+30db hosszú tömbbel
+Futási idő: 200ns
+******************************
+
+******************************
+Minimumkiválasztásos rendezés
+1. teszt sor/2
+30db hosszú tömbbel
+Futási idő: 7200ns
+******************************
+
+******************************
+Továbbfejlesztett buborék rendezés
+1. teszt sor/2
+30db hosszú tömbbel
+Futási idő: 4800ns
+******************************
+
+******************************
+Továbbfejlesztett beszúró rendezés
+2. teszt sor/2
+30db hosszú tömbbel
+Futási idő: 5700ns
+******************************
+
+******************************
+Beszúró rendezés
+2. teszt sor/2
+30db hosszú tömbbel
+Futási idő: 1700ns
+******************************
+
+******************************
+Buborék rendezés
+2. teszt sor/2
+30db hosszú tömbbel
+Futási idő: 100ns
+******************************
+
+******************************
+Egyszerű cserés rendezés
+2. teszt sor/2
+30db hosszú tömbbel
+Futási idő: 8700ns
+******************************
+
+******************************
+Maximumkiválasztásos rendezés
+2. teszt sor/2
+30db hosszú tömbbel
+Futási idő: 100ns
+******************************
+
+******************************
+Minimumkiválasztásos rendezés
+2. teszt sor/2
+30db hosszú tömbbel
+Futási idő: 8500ns
+******************************
+
+******************************
+Továbbfejlesztett buborék rendezés
+2. teszt sor/2
+30db hosszú tömbbel
+Futási idő: 6300ns
+******************************
+
+******************************
+Továbbfejlesztett beszúró rendezés
+1. teszt sor/2
+60db hosszú tömbbel
+Futási idő: 16900ns
+******************************
+
+******************************
+Beszúró rendezés
+1. teszt sor/2
+60db hosszú tömbbel
+Futási idő: 7400ns
+******************************
+
+******************************
+Buborék rendezés
+1. teszt sor/2
+60db hosszú tömbbel
+Futási idő: 200ns
+******************************
+
+******************************
+Egyszerű cserés rendezés
+1. teszt sor/2
+60db hosszú tömbbel
+Futási idő: 34700ns
+******************************
+
+******************************
+Maximumkiválasztásos rendezés
+1. teszt sor/2
+60db hosszú tömbbel
+Futási idő: 100ns
+******************************
+
+******************************
+Minimumkiválasztásos rendezés
+1. teszt sor/2
+60db hosszú tömbbel
+Futási idő: 25200ns
+******************************
+
+******************************
+Továbbfejlesztett buborék rendezés
+1. teszt sor/2
+60db hosszú tömbbel
+Futási idő: 18700ns
+******************************
+
+******************************
+Továbbfejlesztett beszúró rendezés
+2. teszt sor/2
+60db hosszú tömbbel
+Futási idő: 17300ns
+******************************
+
+******************************
+Beszúró rendezés
+2. teszt sor/2
+60db hosszú tömbbel
+Futási idő: 3600ns
+******************************
+
+******************************
+Buborék rendezés
+2. teszt sor/2
+60db hosszú tömbbel
+Futási idő: 200ns
+******************************
+
+******************************
+Egyszerű cserés rendezés
+2. teszt sor/2
+60db hosszú tömbbel
+Futási idő: 34100ns
+******************************
+
+******************************
+Maximumkiválasztásos rendezés
+2. teszt sor/2
+60db hosszú tömbbel
+Futási idő: 100ns
+******************************
+
+******************************
+Minimumkiválasztásos rendezés
+2. teszt sor/2
+60db hosszú tömbbel
+Futási idő: 24900ns
+******************************
+
+******************************
+Továbbfejlesztett buborék rendezés
+2. teszt sor/2
+60db hosszú tömbbel
+Futási idő: 20700ns
+******************************
+
