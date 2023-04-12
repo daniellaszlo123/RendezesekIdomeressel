@@ -2,42 +2,43 @@
 Továbbfejlesztett beszúró rendezés
 1. teszt sor/2
 3db hosszú tömbbel
-Futási idő: 548100ns
+Futási idő: 506500ns
+Futási idő: 0.5065ms
 ******************************
 
 ******************************
 Beszúró rendezés
 1. teszt sor/2
 3db hosszú tömbbel
-Futási idő: 1500ns
+Futási idő: 1700ns
 ******************************
 
 ******************************
 Buborék rendezés
 1. teszt sor/2
 3db hosszú tömbbel
-Futási idő: 800ns
+Futási idő: 1000ns
 ******************************
 
 ******************************
 Egyszerű cserés rendezés
 1. teszt sor/2
 3db hosszú tömbbel
-Futási idő: 1500ns
+Futási idő: 2200ns
 ******************************
 
 ******************************
 Maximumkiválasztásos rendezés
 1. teszt sor/2
 3db hosszú tömbbel
-Futási idő: 1500ns
+Futási idő: 2300ns
 ******************************
 
 ******************************
 Minimumkiválasztásos rendezés
 1. teszt sor/2
 3db hosszú tömbbel
-Futási idő: 11100ns
+Futási idő: 2000ns
 ******************************
 
 ******************************
@@ -51,21 +52,22 @@ Futási idő: 1600ns
 Továbbfejlesztett beszúró rendezés
 2. teszt sor/2
 3db hosszú tömbbel
-Futási idő: 700ns
+Futási idő: 600ns
+Futási idő: 6.0E-4ms
 ******************************
 
 ******************************
 Beszúró rendezés
 2. teszt sor/2
 3db hosszú tömbbel
-Futási idő: 700ns
+Futási idő: 800ns
 ******************************
 
 ******************************
 Buborék rendezés
 2. teszt sor/2
 3db hosszú tömbbel
-Futási idő: 100ns
+Futási idő: 200ns
 ******************************
 
 ******************************
@@ -79,7 +81,7 @@ Futási idő: 600ns
 Maximumkiválasztásos rendezés
 2. teszt sor/2
 3db hosszú tömbbel
-Futási idő: 200ns
+Futási idő: 100ns
 ******************************
 
 ******************************
@@ -93,35 +95,36 @@ Futási idő: 700ns
 Továbbfejlesztett buborék rendezés
 2. teszt sor/2
 3db hosszú tömbbel
-Futási idő: 600ns
+Futási idő: 700ns
 ******************************
 
 ******************************
 Továbbfejlesztett beszúró rendezés
 1. teszt sor/2
 30db hosszú tömbbel
-Futási idő: 4800ns
+Futási idő: 5200ns
+Futási idő: 0.0052ms
 ******************************
 
 ******************************
 Beszúró rendezés
 1. teszt sor/2
 30db hosszú tömbbel
-Futási idő: 2200ns
+Futási idő: 7700ns
 ******************************
 
 ******************************
 Buborék rendezés
 1. teszt sor/2
 30db hosszú tömbbel
-Futási idő: 200ns
+Futási idő: 100ns
 ******************************
 
 ******************************
 Egyszerű cserés rendezés
 1. teszt sor/2
 30db hosszú tömbbel
-Futási idő: 9100ns
+Futási idő: 8800ns
 ******************************
 
 ******************************
@@ -134,141 +137,144 @@ Futási idő: 200ns
 ******************************
 Minimumkiválasztásos rendezés
 1. teszt sor/2
+30db hosszú tömbbel
+Futási idő: 7100ns
+******************************
+
+******************************
+Továbbfejlesztett buborék rendezés
+1. teszt sor/2
+30db hosszú tömbbel
+Futási idő: 4500ns
+******************************
+
+******************************
+Továbbfejlesztett beszúró rendezés
+2. teszt sor/2
+30db hosszú tömbbel
+Futási idő: 4900ns
+Futási idő: 0.0049ms
+******************************
+
+******************************
+Beszúró rendezés
+2. teszt sor/2
+30db hosszú tömbbel
+Futási idő: 2100ns
+******************************
+
+******************************
+Buborék rendezés
+2. teszt sor/2
+30db hosszú tömbbel
+Futási idő: 200ns
+******************************
+
+******************************
+Egyszerű cserés rendezés
+2. teszt sor/2
+30db hosszú tömbbel
+Futási idő: 8900ns
+******************************
+
+******************************
+Maximumkiválasztásos rendezés
+2. teszt sor/2
+30db hosszú tömbbel
+Futási idő: 100ns
+******************************
+
+******************************
+Minimumkiválasztásos rendezés
+2. teszt sor/2
 30db hosszú tömbbel
 Futási idő: 7200ns
 ******************************
 
 ******************************
 Továbbfejlesztett buborék rendezés
-1. teszt sor/2
+2. teszt sor/2
 30db hosszú tömbbel
-Futási idő: 4800ns
+Futási idő: 5300ns
 ******************************
 
 ******************************
 Továbbfejlesztett beszúró rendezés
-2. teszt sor/2
-30db hosszú tömbbel
-Futási idő: 5700ns
+1. teszt sor/2
+60db hosszú tömbbel
+Futási idő: 15900ns
+Futási idő: 0.0159ms
 ******************************
 
 ******************************
 Beszúró rendezés
-2. teszt sor/2
-30db hosszú tömbbel
-Futási idő: 1700ns
+1. teszt sor/2
+60db hosszú tömbbel
+Futási idő: 3900ns
 ******************************
 
 ******************************
 Buborék rendezés
-2. teszt sor/2
-30db hosszú tömbbel
+1. teszt sor/2
+60db hosszú tömbbel
 Futási idő: 100ns
 ******************************
 
 ******************************
 Egyszerű cserés rendezés
-2. teszt sor/2
-30db hosszú tömbbel
-Futási idő: 8700ns
+1. teszt sor/2
+60db hosszú tömbbel
+Futási idő: 33700ns
 ******************************
 
 ******************************
 Maximumkiválasztásos rendezés
-2. teszt sor/2
-30db hosszú tömbbel
-Futási idő: 100ns
-******************************
-
-******************************
-Minimumkiválasztásos rendezés
-2. teszt sor/2
-30db hosszú tömbbel
-Futási idő: 8500ns
-******************************
-
-******************************
-Továbbfejlesztett buborék rendezés
-2. teszt sor/2
-30db hosszú tömbbel
-Futási idő: 6300ns
-******************************
-
-******************************
-Továbbfejlesztett beszúró rendezés
-1. teszt sor/2
-60db hosszú tömbbel
-Futási idő: 16900ns
-******************************
-
-******************************
-Beszúró rendezés
-1. teszt sor/2
-60db hosszú tömbbel
-Futási idő: 7400ns
-******************************
-
-******************************
-Buborék rendezés
 1. teszt sor/2
 60db hosszú tömbbel
 Futási idő: 200ns
 ******************************
 
 ******************************
-Egyszerű cserés rendezés
-1. teszt sor/2
-60db hosszú tömbbel
-Futási idő: 34700ns
-******************************
-
-******************************
-Maximumkiválasztásos rendezés
-1. teszt sor/2
-60db hosszú tömbbel
-Futási idő: 100ns
-******************************
-
-******************************
 Minimumkiválasztásos rendezés
 1. teszt sor/2
 60db hosszú tömbbel
-Futási idő: 25200ns
+Futási idő: 25000ns
 ******************************
 
 ******************************
 Továbbfejlesztett buborék rendezés
 1. teszt sor/2
 60db hosszú tömbbel
-Futási idő: 18700ns
+Futási idő: 19000ns
 ******************************
 
 ******************************
 Továbbfejlesztett beszúró rendezés
 2. teszt sor/2
 60db hosszú tömbbel
-Futási idő: 17300ns
+Futási idő: 18100ns
+Futási idő: 0.0181ms
 ******************************
 
 ******************************
 Beszúró rendezés
 2. teszt sor/2
 60db hosszú tömbbel
-Futási idő: 3600ns
+Futási idő: 3800ns
 ******************************
 
 ******************************
 Buborék rendezés
 2. teszt sor/2
 60db hosszú tömbbel
-Futási idő: 200ns
+Futási idő: 100ns
 ******************************
 
 ******************************
 Egyszerű cserés rendezés
 2. teszt sor/2
 60db hosszú tömbbel
-Futási idő: 34100ns
+Futási idő: 33800ns
 ******************************
 
 ******************************
@@ -282,13 +288,13 @@ Futási idő: 100ns
 Minimumkiválasztásos rendezés
 2. teszt sor/2
 60db hosszú tömbbel
-Futási idő: 24900ns
+Futási idő: 25400ns
 ******************************
 
 ******************************
 Továbbfejlesztett buborék rendezés
 2. teszt sor/2
 60db hosszú tömbbel
-Futási idő: 20700ns
+Futási idő: 18800ns
 ******************************
 

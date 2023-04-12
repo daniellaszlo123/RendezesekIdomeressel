@@ -98,7 +98,8 @@ public class IdoTeszt {
         idoTesztStr+="Továbbfejlesztett beszúró rendezés\n";
         idoTesztStr+=(index+1)+". teszt sor/"+MATRIX_TOMB_HOSSZ+"\n";
         idoTesztStr+=tomb.length+"db hosszú tömbbel\n";
-        idoTesztStr+="Futási idő: "+ futasiIdo+"ns\n";
+        idoTesztStr+="Futási idő(nanoszekundum): "+ futasiIdo+"ns\n";
+        idoTesztStr+="Futási idő(miliszekundum): "+ (futasiIdo/1000000.0)+"ms\n";
         idoTesztStr+=vonal(CSILLAG)+"\n";
         
         kever(tomb);
@@ -110,7 +111,8 @@ public class IdoTeszt {
         idoTesztStr+="Beszúró rendezés\n";
         idoTesztStr+=(index+1)+". teszt sor/"+MATRIX_TOMB_HOSSZ+"\n";
         idoTesztStr+=tomb.length+"db hosszú tömbbel\n";
-        idoTesztStr+="Futási idő: "+ futasiIdo+"ns\n";
+        idoTesztStr+="Futási idő(nanoszekundum): "+ futasiIdo+"ns\n";
+        idoTesztStr+="Futási idő(miliszekundum): "+ (futasiIdo/1000000.0)+"ms\n";
         idoTesztStr+=vonal(CSILLAG)+"\n";
         
         kever(tomb);
@@ -122,7 +124,8 @@ public class IdoTeszt {
         idoTesztStr+="Buborék rendezés\n";
         idoTesztStr+=(index+1)+". teszt sor/"+MATRIX_TOMB_HOSSZ+"\n";
         idoTesztStr+=tomb.length+"db hosszú tömbbel\n";
-        idoTesztStr+="Futási idő: "+ futasiIdo+"ns\n";
+        idoTesztStr+="Futási idő(nanoszekundum): "+ futasiIdo+"ns\n";
+        idoTesztStr+="Futási idő(miliszekundum): "+ (futasiIdo/1000000.0)+"ms\n";
         idoTesztStr+=vonal(CSILLAG)+"\n";
         
         kever(tomb);
@@ -134,7 +137,8 @@ public class IdoTeszt {
         idoTesztStr+="Egyszerű cserés rendezés\n";
         idoTesztStr+=(index+1)+". teszt sor/"+MATRIX_TOMB_HOSSZ+"\n";
         idoTesztStr+=tomb.length+"db hosszú tömbbel\n";
-        idoTesztStr+="Futási idő: "+ futasiIdo+"ns\n";
+        idoTesztStr+="Futási idő(nanoszekundum): "+ futasiIdo+"ns\n";
+        idoTesztStr+="Futási idő(miliszekundum): "+ (futasiIdo/1000000.0)+"ms\n";
         idoTesztStr+=vonal(CSILLAG)+"\n";
         
         kever(tomb);
@@ -146,7 +150,8 @@ public class IdoTeszt {
         idoTesztStr+="Maximumkiválasztásos rendezés\n";
         idoTesztStr+=(index+1)+". teszt sor/"+MATRIX_TOMB_HOSSZ+"\n";
         idoTesztStr+=tomb.length+"db hosszú tömbbel\n";
-        idoTesztStr+="Futási idő: "+ futasiIdo+"ns\n";
+        idoTesztStr+="Futási idő(nanoszekundum): "+ futasiIdo+"ns\n";
+        idoTesztStr+="Futási idő(miliszekundum): "+ (futasiIdo/1000000.0)+"ms\n";
         idoTesztStr+=vonal(CSILLAG)+"\n";
         
         kever(tomb);
@@ -158,7 +163,8 @@ public class IdoTeszt {
         idoTesztStr+="Minimumkiválasztásos rendezés\n";
         idoTesztStr+=(index+1)+". teszt sor/"+MATRIX_TOMB_HOSSZ+"\n";
         idoTesztStr+=tomb.length+"db hosszú tömbbel\n";
-        idoTesztStr+="Futási idő: "+ futasiIdo+"ns\n";
+        idoTesztStr+="Futási idő(nanoszekundum): "+ futasiIdo+"ns\n";
+        idoTesztStr+="Futási idő(miliszekundum): "+ (futasiIdo/1000000.0)+"ms\n";
         idoTesztStr+=vonal(CSILLAG)+"\n";
         
         kever(tomb);
@@ -170,7 +176,8 @@ public class IdoTeszt {
         idoTesztStr+="Továbbfejlesztett buborék rendezés\n";
         idoTesztStr+=(index+1)+". teszt sor/"+MATRIX_TOMB_HOSSZ+"\n";
         idoTesztStr+=tomb.length+"db hosszú tömbbel\n";
-        idoTesztStr+="Futási idő: "+ futasiIdo+"ns\n";
+        idoTesztStr+="Futási idő(nanoszekundum): "+ futasiIdo+"ns\n";
+        idoTesztStr+="Futási idő(miliszekundum): "+ (futasiIdo/1000000.0)+"ms\n";
         idoTesztStr+=vonal(CSILLAG)+"\n";
         
         
